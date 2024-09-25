@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZA NYLON CAMISETA TERMICA ML-602 BLANCO"
+name: "AZA NYLON CAMISETA TERMICA ML-602 BLANCO"
+price: 21.9
+---

@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA VERA THERAPY PAP AD-451 NEGRO"
+name: "AZALEIA VERA THERAPY PAP AD-451 NEGRO"
+price: 129.9
+---

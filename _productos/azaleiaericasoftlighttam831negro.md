@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA ERICA SOFT LIGHT TAM-831 NEGRO"
+name: "AZALEIA ERICA SOFT LIGHT TAM-831 NEGRO"
+price: 119.9
+---

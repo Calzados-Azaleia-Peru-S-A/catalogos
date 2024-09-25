@@ -1,0 +1,6 @@
+---
+layout: product
+title: "ESCOBILLA APLICADORA-001 INCOLORO"
+name: "ESCOBILLA APLICADORA-001 INCOLORO"
+price: 11.9
+---

@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA FABI LIGHT LINE TAM-908 NEGRO"
+name: "AZALEIA FABI LIGHT LINE TAM-908 NEGRO"
+price: 99.9
+---

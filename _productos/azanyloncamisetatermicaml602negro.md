@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZA NYLON CAMISETA TERMICA ML-602 NEGRO"
+name: "AZA NYLON CAMISETA TERMICA ML-602 NEGRO"
+price: 21.9
+---

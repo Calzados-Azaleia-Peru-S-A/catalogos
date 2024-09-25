@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA GREICE SOFT PAPETE-833 NUDE"
+name: "AZALEIA GREICE SOFT PAPETE-833 NUDE"
+price: 129.9
+---

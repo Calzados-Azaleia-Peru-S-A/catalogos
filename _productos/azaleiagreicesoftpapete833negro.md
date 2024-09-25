@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA GREICE SOFT PAPETE-833 NEGRO"
+name: "AZALEIA GREICE SOFT PAPETE-833 NEGRO"
+price: 129.9
+---

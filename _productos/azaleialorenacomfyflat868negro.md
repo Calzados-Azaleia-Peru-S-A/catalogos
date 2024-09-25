@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA LORENA COMFY FLAT-868 NEGRO"
+name: "AZALEIA LORENA COMFY FLAT-868 NEGRO"
+price: 89.9
+---

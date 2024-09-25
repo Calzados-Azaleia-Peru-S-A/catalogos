@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA VERA THERAPY PAP AD-451 NUDE OSCURO"
+name: "AZALEIA VERA THERAPY PAP AD-451 NUDE OSCURO"
+price: 129.9
+---

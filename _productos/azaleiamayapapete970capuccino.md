@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA MAYA PAPETE-970 CAPUCCINO"
+name: "AZALEIA MAYA PAPETE-970 CAPUCCINO"
+price: 109.9
+---

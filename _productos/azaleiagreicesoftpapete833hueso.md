@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA GREICE SOFT PAPETE-833 HUESO"
+name: "AZALEIA GREICE SOFT PAPETE-833 HUESO"
+price: 129.9
+---

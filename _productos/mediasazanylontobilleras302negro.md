@@ -1,0 +1,6 @@
+---
+layout: product
+title: "MEDIAS AZA NYLON TOBILLERAS-302 NEGRO"
+name: "MEDIAS AZA NYLON TOBILLERAS-302 NEGRO"
+price: 7.9
+---

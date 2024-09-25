@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA HANNA SOFT HIGH PLAT THONG-569 NEGRO"
+name: "AZALEIA HANNA SOFT HIGH PLAT THONG-569 NEGRO"
+price: 129.9
+---

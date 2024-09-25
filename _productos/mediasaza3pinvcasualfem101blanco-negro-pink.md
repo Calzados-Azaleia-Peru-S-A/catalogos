@@ -1,0 +1,6 @@
+---
+layout: product
+title: "MEDIAS AZA 3-P INV CASUAL FEM-101 BLANCO/NEGRO/PINK"
+name: "MEDIAS AZA 3-P INV CASUAL FEM-101 BLANCO/NEGRO/PINK"
+price: 41.9
+---

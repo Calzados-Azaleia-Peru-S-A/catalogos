@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZGEL HEEL SHIELD-122 TRANSPARENTE VINYL"
+name: "AZGEL HEEL SHIELD-122 TRANSPARENTE VINYL"
+price: 16.9
+---

@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA SOFT HIGH PLAT THONG FEM-679 BEIGE"
+name: "AZALEIA SOFT HIGH PLAT THONG FEM-679 BEIGE"
+price: 129.9
+---

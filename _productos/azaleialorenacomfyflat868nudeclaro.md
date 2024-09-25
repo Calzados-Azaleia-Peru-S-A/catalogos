@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA LORENA COMFY FLAT-868 NUDE CLARO"
+name: "AZALEIA LORENA COMFY FLAT-868 NUDE CLARO"
+price: 89.9
+---

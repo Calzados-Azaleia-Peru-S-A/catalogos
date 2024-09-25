@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZA NYLON CAMISETA TERMICA ML-602 BEIGE"
+name: "AZA NYLON CAMISETA TERMICA ML-602 BEIGE"
+price: 21.9
+---

@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA MAITE-045 ROSA METALIZADO"
+name: "AZALEIA MAITE-045 ROSA METALIZADO"
+price: 79.9
+---

@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA HANNA SOFT HIGH PLAT THONG-569 LILA"
+name: "AZALEIA HANNA SOFT HIGH PLAT THONG-569 LILA"
+price: 129.9
+---

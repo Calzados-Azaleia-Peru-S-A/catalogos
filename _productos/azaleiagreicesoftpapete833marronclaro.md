@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA GREICE SOFT PAPETE-833 MARRON CLARO"
+name: "AZALEIA GREICE SOFT PAPETE-833 MARRON CLARO"
+price: 129.9
+---

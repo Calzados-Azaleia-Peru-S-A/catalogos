@@ -1,0 +1,6 @@
+---
+layout: product
+title: "MEDIAS AZA NYLON TOBILLERAS-302 BEIGE"
+name: "MEDIAS AZA NYLON TOBILLERAS-302 BEIGE"
+price: 7.9
+---

@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZGEL SLIM COMF-120 CENIZA/TRANSPARENTE"
+name: "AZGEL SLIM COMF-120 CENIZA/TRANSPARENTE"
+price: 33.9
+---

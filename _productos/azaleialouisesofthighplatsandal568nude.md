@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA LOUISE SOFT HIGH PLAT SANDAL-568 NUDE"
+name: "AZALEIA LOUISE SOFT HIGH PLAT SANDAL-568 NUDE"
+price: 139.9
+---

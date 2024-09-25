@@ -1,0 +1,6 @@
+---
+layout: product
+title: "MEDIAS AZA TALONERAS UNI CASUAL FEM-701 PINK"
+name: "MEDIAS AZA TALONERAS UNI CASUAL FEM-701 PINK"
+price: 14.9
+---

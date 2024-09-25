@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZGEL BALL CUSH-123 TRANSPARENTE VINYL"
+name: "AZGEL BALL CUSH-123 TRANSPARENTE VINYL"
+price: 19.9
+---

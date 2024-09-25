@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA KATE SOFT DUO SLIDE PLAT FEM-549 NUDE"
+name: "AZALEIA KATE SOFT DUO SLIDE PLAT FEM-549 NUDE"
+price: 119.9
+---

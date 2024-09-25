@@ -1,0 +1,6 @@
+---
+layout: product
+title: "AZALEIA LIA SOFT CARE TAM-836 NEGRO/BEIGE"
+name: "AZALEIA LIA SOFT CARE TAM-836 NEGRO/BEIGE"
+price: 109.9
+---

@@ -1,0 +1,6 @@
+---
+layout: product
+title: "MEDIAS AZA NYLON BUCANERA-303 NEGRO"
+name: "MEDIAS AZA NYLON BUCANERA-303 NEGRO"
+price: 12.9
+---
