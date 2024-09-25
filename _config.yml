@@ -6,7 +6,7 @@ url: "https://calzados-azaleia-peru-s-a.github.io/catalogos" # URL de GitHub Pag
 
 # Configuración de la colección de productos
 collections:
-  products:
+  productos:
     output: true # Esto habilita la salida de las páginas de productos
 
 # Otras configuraciones
