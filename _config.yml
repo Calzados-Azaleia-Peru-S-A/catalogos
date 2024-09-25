@@ -1,13 +1,13 @@
 # _config.yml
 
 # Configuración para GitHub Pages
-baseurl: "/catalogos" # Nombre del repositorio en GitHub
-url: "https://calzados-azaleia-peru-s-a.github.io" # URL de GitHub Pages
+baseurl: "/catalogos" # Ruta base del repositorio en GitHub
+url: "https://calzados-azaleia-peru-s-a.github.io/catalogos" # URL de GitHub Pages completa
 
-# Configuración de la colección de productos (si es necesario)
+# Configuración de la colección de productos
 collections:
-  products:
-    output: true
+  productos:
+    output: true # Esto habilita la salida de las páginas de productos
 
 # Otras configuraciones
 markdown: kramdown

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: product
 title: "Catálogo de Productos"
 ---
 
@@ -8,11 +8,10 @@ title: "Catálogo de Productos"
 Bienvenido a nuestro catálogo interactivo de productos Azaleia.
 
 <ul>
-  {% for product in site.pages %}
-    {% if product.layout == "product" %}
-      <li>
-        <a href="{{ product.url }}">{{ product.name }} - S/. {{ product.price }}</a>
-      </li>
-    {% endif %}
+  {% for product in site.productos %}
+    <li>
+      <a href="{{ site.baseurl }}/productos/{{ product.name | slugify }}/">{{ product.name }}</a>
+
+    </li>
   {% endfor %}
 </ul>
