@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Producto - Carrito</title>
+  <title>{{ page.title }}</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 
@@ -266,12 +266,13 @@
 </head>
 
 <body>
-<div class="container">
-        <div class="product-block" data-product-price="{{ page.price }}">
-            <h2 class="product-name" id="product-name">{{ page.name }}</h2>
-            <div class="price-unit">Precio: S/. <span id="unit-price">{{ page.price }}</span></div>
-
-      <!-- Aviso de promoción debajo del precio principal -->
+	<div class="container">
+    <div class="product-block" data-product-price="{{ page.price }}">
+        <h2 class="product-name" id="product-name">{{ page.name }}</h2>
+        <div class="price-unit">Precio: S/. <span id="unit-price">{{ page.price }}</span></div>
+    </div>
+</div>
+<!-- Aviso de promoción debajo del precio principal -->
       <div class="promotion-message" id="promotion-message" style="display: none;">
         ¡Descuento del 50% en el segundo par!
       </div>
